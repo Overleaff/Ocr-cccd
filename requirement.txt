@@ -1,6 +1,6 @@
 torch
 pillow
-tensorflow==2.2.0
+tensorflow
 matplotlib
 torchvision
 PyYAML
